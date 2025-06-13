@@ -1,0 +1,20 @@
+.odd {
+    color: black;
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.special {
+    font-size: 24px;
+}
+
+#uno {
+    color: blue;
+    font-size: 36px;
+}
+
+#dos {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
