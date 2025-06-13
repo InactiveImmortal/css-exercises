@@ -1,6 +1,6 @@
 # CSS Exercises
 
-## Progress Jump:
+### Progress Jump:
 
 #### My next step is to complete this exercise: [Intro to CSS/03-Grouping-Selectors](https://github.com/InactiveImmortal/css-exercises/tree/main/foundations/intro-to-css/03-grouping-selectors)
 
