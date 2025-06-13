@@ -1,8 +1,10 @@
 # CSS Exercises
 
-### Progress Jump:
+## Progress Jump:
 
 #### My next step is to complete this exercise: [Intro to CSS/03-Grouping-Selectors](https://github.com/InactiveImmortal/css-exercises/tree/main/foundations/intro-to-css/03-grouping-selectors)
+
+---
 
 These exercises consist of a series of CSS-related tasks intended to complement the HTML and CSS content on The Odin Project (TOP). They should only be completed when instructed during the course of the curriculum.
 
